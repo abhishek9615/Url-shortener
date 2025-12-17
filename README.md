@@ -163,19 +163,6 @@ __3. Member Workflow__
 ![MemberDashboard Screenshot](docs/MemberDashboard.png)
 
 
-## 🤖 Acceptable AI Usage Policy & Declaration
-**Tool Used:** Google Gemini
 
-In accordance with the assignment's Acceptable AI Usage Policy, I declare that my overall workflow, architectural logic, and implementation reasoning are original. AI tools were strictly utilized for debugging purposes.
-
-**Specific Usages:**
-
-- Used Google Gemini to debug and resolve the Laravel 11 specific error Class "App\Providers\AuthServiceProvider" not found.
-
-- Used Google Gemini to troubleshoot the SQLite no such table: sessions migration error during the setup process.
-
-
-
-__Built for Sembark Tech Backend Developer Assignment.__
 
 
