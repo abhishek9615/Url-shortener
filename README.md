@@ -71,7 +71,6 @@ DB_CONNECTION=sqlite
 # DB_PASSWORD=
 ```
 
-
 **4. Create Database File**
 
 Create the SQLite database file in the database directory.
